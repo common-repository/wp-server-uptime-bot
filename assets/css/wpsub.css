@@ -1,0 +1,66 @@
+.wpsub_main_wrap{
+    background: #fff;
+    padding: 20px;
+    margin-top: 20px;
+}
+.wpsub_main_wrap h1 .dashicons {
+    font-size: 38px;
+    margin: 0 15px 0 0;
+}
+.wpsub-label{
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: #ffffff;
+}
+.wpsub-label-success{
+    background: #008000;
+}
+.wpsub-label-danger{
+    background: #ff0000;
+}
+.wpsub-label-primary{
+    background: #006dcc;
+}
+.wpsub-circle{
+    padding: 20px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    line-height: 40px;
+    text-align: center;
+    font-size: 22px;
+}
+.wpsub-circle-success{
+    border: 10px solid #008000;
+}
+.wpsub-circle-danger{
+    border: 10px solid #ff0000;
+}
+.wpsub-circle-wrap{
+    margin: 20px 0;
+}
+.wpsub-circle-wrap .wpsub-circle{
+    display: inline-block;
+}
+.wpsub-squire-danger{
+    background: #ff0000;
+    padding: 5px;
+    width: 3px;
+    display: inline-block;
+}
+.wpsub-squire-success{
+    background: #008000;
+    padding: 5px;
+    width: 3px;
+    display: inline-block;
+}
+.wpsub-lookup-add-box input[name="wpsub_add_lookup_url"], .wpsub-lookup-add-box input[name="wpsub_add_lookup_name"]{
+    height: 27px;
+}
+.wpsub-msg-success{
+    color: #008000;
+}
+.wpsub-msg-danger{
+    color: #ff0000;
+}
